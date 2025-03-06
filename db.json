@@ -69,20 +69,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "2bf0",
-      "title": "New job entry to test netlify",
-      "type": "Remote",
-      "location": "Casablanca - Morroco",
-      "description": "discription for New job entry to test netlify",
-      "salary": "$60K - 70K",
-      "company": {
-        "name": "chibane ",
-        "description": "chibane's company description",
-        "contactEmail": "chibane@company.com",
-        "contactPhone": "555 555 555"
-      }
     }
   ]
 }
